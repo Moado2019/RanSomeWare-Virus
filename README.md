@@ -1,2 +1,1 @@
 # RanSomeWare-Virus
-#MOSDSA
